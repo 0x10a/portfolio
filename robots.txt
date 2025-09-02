@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /*.pdf
+Disallow: /CV – Mehdi Tebourbi DEV.pdf
+Disallow: /*.PDF
+Noindex: /*.pdf
+Noindex: /CV – Mehdi Tebourbi DEV.pdf
+Noindex: /*.PDF
